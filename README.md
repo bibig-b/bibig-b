@@ -105,18 +105,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=HTML5&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<img src="https://github-readme-stats.vercel.app/api?username=CSS3&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=JavaScript&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=NODE.JS&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<img src="https://github-readme-stats.vercel.app/api?username=EXPRESS.JS&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
 
 
 ## Recent Blog Posts  
