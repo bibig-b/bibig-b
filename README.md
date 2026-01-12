@@ -91,14 +91,23 @@ Always curious, always learning, and always ready for the next challenge 🚀
 
 ### 📊 Estatísticas
 
-## 👩‍💻 Bianca | Full-Stack Developer in Progress  
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 20px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bibig-b&theme=tokyonight" 
+  />
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bibig-b&theme=radical)
+<img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bibig-b&theme=tokyonight" 
+  />
+</p>
 
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bibig-b&theme=radical)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bibig-b&theme=radical)
-
-![Streak](https://streak-stats.demolab.com?user=bibig-b&theme=radical)
 
 
