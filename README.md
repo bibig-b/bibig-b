@@ -90,8 +90,10 @@ Always curious, always learning, and always ready for the next challenge 🚀
 <br/>
 
 ### 📊 Estatísticas
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bibig-b&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bibig-b&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bibig-b&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=bibig-b&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bibig-b&layout=compact&theme=radical&langs_count=8&v=1)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=bibig-b&theme=radical&v=1)
+
